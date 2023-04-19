@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+svg {
+    border: 2px solid #000000;
+  }
+  
+  .shape-opacity { 
+      fill: yellowgreen;
+      fill-opacity: 0.75;
+  }
+  
+  .shape-transparent {
+      fill: none
+      }
+
+  .rect-1 {
+      fill: tomato;
+  }
+  
+  .rect-2 {
+      fill: lightseagreen;
+      fill-opacity: 0.5;
+  }
+  
+  .rect-3 {
+      fill: #ffd700;
+  }
+  
+  .rect-4 {
+      fill: none;
+  }
+  
+  .shape-stroke {
+      fill: lightseagreen; 
+      stroke: teal;
+      stroke-width: 5%;
+      }
